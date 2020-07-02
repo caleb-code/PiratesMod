@@ -202,14 +202,6 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
-    },
-    {
-      "name": "CrateBlock",
-      "type": "block",
-      "sortid": 22,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -223,7 +215,6 @@
       "item.pirates.piratecapbody": "Pirate Cap Body",
       "item.pirates.piratecaphelmet": "Pirate Cap",
       "item.pirates.driedseaweed": "Dried Seaweed",
-      "block.pirates.crateblock": "Crate ",
       "item.pirates.piratecapboots": "Pirate Cap Boots",
       "item.pirates.drunkenpirate": "Dead Pirate Spawn Egg",
       "item.pirates.piratecaptain": "Pirate Spawn Egg",
