@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pirates:blocks/salt_ore",
+    "particle": "pirates:blocks/salt_ore"
+  }
+}

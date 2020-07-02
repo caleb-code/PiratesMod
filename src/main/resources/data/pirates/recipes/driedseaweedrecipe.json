@@ -1,0 +1,11 @@
+{
+  "group": "pirates",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:seagrass"
+  },
+  "result": {
+    "item": "pirates:driedseaweed"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "xpReward": 1.0,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "Blocks.SEAGRASS"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:DriedSeaweed"
+    },
+    "name": "driedseaweedrecipe3",
+    "namespace": "mod"
+  }
+}

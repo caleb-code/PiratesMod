@@ -1,0 +1,11 @@
+{
+  "group": "pirates",
+  "type": "minecraft:smelting",
+  "experience": 0.7,
+  "ingredient": {
+    "item": "pirates:saltore"
+  },
+  "result": {
+    "item": "pirates:saltgem"
+  }
+}

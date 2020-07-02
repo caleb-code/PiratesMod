@@ -1,0 +1,11 @@
+{
+  "group": "pirates",
+  "type": "minecraft:campfire_cooking",
+  "experience": 1,
+  "ingredient": {
+    "item": "minecraft:seagrass"
+  },
+  "result": {
+    "item": "pirates:driedseaweed"
+  }
+}

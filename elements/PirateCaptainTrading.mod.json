@@ -1,0 +1,49 @@
+{
+  "_fv": 6,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": true,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Pirate Captain",
+          "color": {
+            "value": -16777216,
+            "falpha": 0.0
+          },
+          "name": "Pirate Captain",
+          "x": 259,
+          "y": 85
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": "Items.GOLD_NUGGET"
+          },
+          "id": 0,
+          "onSlotChanged": {
+            "name": "TradePirateCaptain"
+          },
+          "name": "Slot #0",
+          "x": 275,
+          "y": 138
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "name": "Slot #1",
+          "x": 502,
+          "y": 133
+        }
+      }
+    ]
+  }
+}
